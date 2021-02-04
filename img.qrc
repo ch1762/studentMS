@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/appstu.ICO</file>
+    <file>images/login.jpg</file>
+    <file>images/main.jpg</file>
+  </qresource>
+</RCC>
